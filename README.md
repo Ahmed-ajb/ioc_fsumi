@@ -1,4 +1,7 @@
 # ioc_fsumi SD
+diagram :
+
+![java](https://github.com/Ahmed-ajb/ioc_fsumi/assets/78688533/031b53c1-7bce-428d-87ad-2c95553dde2f)
 
 
 1)  le dossier ioc_fsumi
